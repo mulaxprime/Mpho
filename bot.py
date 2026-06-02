@@ -4,7 +4,7 @@ from features.tts import tts
 from features.menu import menu
 from features.chat import chat
 
-TOKEN ="8619700053:AAE00xx5pBzlfh336eyTzRLqaaULxLAvSKA" 
+TOKEN ="Add_your_telegram_bot_token_here" 
 async def start(update, context):
     await update.message.reply_text("Thanks for using Mulax Prime Bot, type /menu to see available features") # the telegram bot must reply to me if the token are working well
 
