@@ -1,7 +1,7 @@
 from gtts import gTTS
 from telegram import Update
 from telegram.ext import ContextTypes
-import os #should deleted some old audio files from the list and alwsays update my program 
+import os 
 
 async def tts(update: Update, context: ContextTypes.DEFAULT_TYPE) :
     text = " ".join(context.args) # this must allow  my arguements  join the arguments passed after the command into a single string
