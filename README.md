@@ -3,6 +3,8 @@
 ## What is Mpho?
 Mpho is a Telegram bot built with a modular architecture, combining AI chat, text-to-speech, and YouTube music search into one assistant. *Mpho* means "gift" in Setswana.
 
+This was my first Python project — where I learned modular architecture, API integration, and async/await, before going on to build Mothusi.
+
 ---
 
 ## Features
