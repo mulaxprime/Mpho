@@ -42,6 +42,9 @@ Mpho currently runs locally — the bot is only online while my PC is running it
 
 ---
 
+## live demo
+[Telegram](https://t.me/MulaxPrimbot)
+
 ## Developer
 **Mulax Prime** (Amantle Mpaekae) | Mogoditshane, Botswana
 [GitHub](https://github.com/mulaxprime) · [Portfolio](https://mulaxprime.github.io)
